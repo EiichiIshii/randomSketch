@@ -1,15 +1,29 @@
-html, body {
-    margin: 0;
-    padding: 0;
-    background-color: #000; 
-  }
-  
-  canvas {
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    margin: auto;
-  }
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+
+canvas {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+#p5_loading {
+  color: #FFFFFF;
+  font-size: 1.5em;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+}
