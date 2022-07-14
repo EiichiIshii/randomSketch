@@ -1,4 +1,4 @@
-let num = 10;
+let num = 12;
 let img = [];
 let index;
 let w;
